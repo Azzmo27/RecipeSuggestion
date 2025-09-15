@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "RecipeSuggestion",
+    "owner": "Natasha Mohamed",
+    "description": "Recipe Suggestion tool",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Natasha",
+    "threatTop": 0
+  }
+}
